@@ -1,3 +1,4 @@
-# static resources
+# Static Pictures
 
-# temp notes
+# Developer notes
+- notes 1
